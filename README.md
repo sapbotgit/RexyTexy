@@ -1,7 +1,7 @@
 # RexyTexy
 OS for arduino, esp for controlling screens
 
-# Accessing screen with CMD
+## Accessing screen with CMD
 1. Open port controller (In Arduino IDE)
 2. Use this commands to control:
 ```
