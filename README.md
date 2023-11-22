@@ -4,6 +4,7 @@ OS for arduino, esp for controlling screens
 ### Programming with Python
 #### Template #1 - Box
 '''python
+
 import pyRexyTexy as rt
 
 scr = rt.Screen(input("> "))
@@ -14,7 +15,8 @@ dots = [
 ]
 
 for dot in dots:
-  scr.draw(dot[0], dot[1])
+  scr
+  draw(dot[0], dot[1])
 '''
 ## Controling in real time
 ### Accessing screen with CMD
