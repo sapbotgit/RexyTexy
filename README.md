@@ -3,7 +3,7 @@ OS for arduino, esp for controlling screens
 ## Controling not in real time
 ### Programming with Python
 #### Template #1 - Box
-'''python3
+```python3
 
 import pyRexyTexy as rt
 
@@ -17,7 +17,7 @@ dots = [
 for dot in dots:
   scr
   draw(dot[0], dot[1])
-'''
+```
 ## Controling in real time
 ### Accessing screen with CMD
 1. Open port controller (In Arduino IDE)
