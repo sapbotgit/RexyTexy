@@ -3,7 +3,7 @@ OS for arduino, esp for controlling screens
 ## Controling not in real time
 ### Programming with Python
 #### Template #1 - Box
-'''python
+'''python3
 
 import pyRexyTexy as rt
 
