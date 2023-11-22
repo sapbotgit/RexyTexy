@@ -15,7 +15,16 @@ dots = [
 ]
 
 for dot in dots:
-  scr.draw(dot[0], dot[1])
+  scr.draw(dot[0], dot[1], 1)
+```
+#### Standart Template - Hello World
+```python3
+
+import pyRexyTexy as rt
+
+scr = rt.Screen(input("> "))
+scr.text("Hello World")
+
 ```
 ## Controling in real time
 ### Accessing screen with CMD
